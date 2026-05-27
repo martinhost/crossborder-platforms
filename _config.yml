@@ -1,0 +1,37 @@
+# 网站基本信息
+title: 跨境电商平台对比目录
+description: 帮助卖家选择最适合的跨境电商平台 - 入驻条件、手续费、流量规模、运营难度全对比
+author: martinhost
+lang: zh-CN
+
+# Jekyll主题
+theme: jekyll-theme-cayman
+
+# 网站设置
+baseurl: "/crossborder-platforms"
+url: "https://martinhost.github.io"
+
+# Markdown设置
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# 导航菜单
+header_pages:
+  - index.md
+  - platforms.md
+  - compare.md
+  - guide.md
+
+# SEO设置
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# 排除文件
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock

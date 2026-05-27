@@ -1,0 +1,77 @@
+---
+layout: default
+---
+
+<h1>{{ page.platform_name }}</h1>
+
+<div class="platform-info">
+  <div class="info-card">
+    <h2>基本信息</h2>
+    <table>
+      <tr>
+        <td>主要市场</td>
+        <td>{{ page.main_market }}</td>
+      </tr>
+      <tr>
+        <td>月活用户</td>
+        <td>{{ page.monthly_active_users }}</td>
+      </tr>
+      <tr>
+        <td>平台类型</td>
+        <td>{{ page.platform_type }}</td>
+      </tr>
+      <tr>
+        <td>入驻难度</td>
+        <td>{{ page.entry_difficulty }}</td>
+      </tr>
+    </table>
+  </div>
+  
+  <div class="info-card">
+    <h2>费用结构</h2>
+    <table>
+      <tr>
+        <td>平台佣金</td>
+        <td>{{ page.commission_rate }}</td>
+      </tr>
+      <tr>
+        <td>保证金</td>
+        <td>{{ page.deposit }}</td>
+      </tr>
+      <tr>
+        <td>其他费用</td>
+        <td>{{ page.other_fees }}</td>
+      </tr>
+    </table>
+  </div>
+</div>
+
+<h2>入驻条件</h2>
+{{ content }}
+
+<h2>热销品类</h2>
+<ul>
+  {% for category in page.hot_categories %}
+  <li>{{ category }}</li>
+  {% endfor %}
+</ul>
+
+<h2>优缺点</h2>
+<div class="pros-cons">
+  <div class="pros">
+    <h3>优点</h3>
+    <ul>
+      {% for pro in page.pros %}
+      <li>{{ pro }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="cons">
+    <h3>缺点</h3>
+    <ul>
+      {% for con in page.cons %}
+      <li>{{ con }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
