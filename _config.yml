@@ -1,8 +1,9 @@
 # 网站基本信息
 title: 跨境电商平台对比目录
-description: 帮助卖家选择最适合的跨境电商平台 - 入驻条件、手续费、流量规模、运营难度全对比
+description: 帮助卖家选择最适合的跨境电商平台 - 入驻条件、手续费、流量规模、运营难度全对比。覆盖TikTok Shop、Temu、亚马逊、Shopee等10大平台，提供详细对比和选品指南。
 author: martinhost
 lang: zh-CN
+locale: zh_CN
 
 # Jekyll主题
 theme: jekyll-theme-cayman
@@ -29,9 +30,32 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
+# SEO元数据
+twitter:
+  username: martinhost
+  card: summary_large_image
+
+social:
+  name: martinhost
+  links:
+    - https://github.com/martinhost
+
+# 默认SEO标签
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/og-image.png
+
 # 排除文件
 exclude:
   - README.md
   - LICENSE
   - Gemfile
   - Gemfile.lock
+  - node_modules
+  - vendor
+
+# 包含文件
+include:
+  - robots.txt

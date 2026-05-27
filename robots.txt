@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://martinhost.github.io/crossborder-platforms/sitemap.xml
