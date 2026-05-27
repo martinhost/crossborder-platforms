@@ -41,6 +41,7 @@ title: 首页
 - [TikTok Shop适合卖什么产品](guide/tiktok-shop-products.html)
 - [Temu爆款选品技巧](guide/temu-products.html)
 - [东南亚市场选品策略](guide/southeast-asia-products.html)
+- [拉美市场选品指南](guide/mercado-libre-products.html)
 
 ---
 
