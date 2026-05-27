@@ -28,9 +28,11 @@ title: 首页
 
 ## 平台对比
 
-- [TikTok Shop vs Temu](compare/tiktok-shop-vs-temu.html) - 短视频电商 vs 全托管模式
-- [Shopee vs Lazada](compare/shopee-vs-lazada.html) - 东南亚两大平台对比
+- [Shopee vs Lazada](compare/shopee-vs-lazada.html) - 东南亚双雄对比
 - [Temu vs SHEIN](compare/temu-vs-shein.html) - 中国出海双雄对比
+- [亚马逊 vs TikTok Shop](compare/amazon-vs-tiktok-shop.html) - 传统电商 vs 新兴电商
+- [沃尔玛 vs 亚马逊](compare/walmart-vs-amazon.html) - 美国两大平台对比
+- [TikTok Shop vs Temu](compare/tiktok-shop-vs-temu.html) - 短视频电商 vs 全托管模式
 
 ---
 
