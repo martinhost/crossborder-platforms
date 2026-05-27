@@ -15,8 +15,8 @@ title: 首页
 |------|----------|----------|----------|----------|
 | [TikTok Shop](platforms/tiktok-shop.html) | 全球 | 15亿+ | 中等 | ⭐⭐⭐⭐⭐ |
 | [Temu](platforms/temu.html) | 北美、欧洲 | 5.3亿 | 简单 | ⭐⭐⭐⭐⭐ |
-| [SHEIN](platforms/shein.html) | 全球 | 4.4亿 | 困难 | ⭐⭐⭐⭐ |
-| [亚马逊](platforms/amazon.html) | 全球 | 3亿+ | 困难 | ⭐⭐⭐⭐ |
+| [SHEIN](platforms/shein.html) | 全球160+市场 | 4.4亿 | 中等 | ⭐⭐⭐⭐ |
+| [亚马逊](platforms/amazon.html) | 全球20大站点 | 3亿+ | 困难 | ⭐⭐⭐⭐⭐ |
 | [Shopee](platforms/shopee.html) | 东南亚 | 3.4亿 | 简单 | ⭐⭐⭐⭐ |
 | [Lazada](platforms/lazada.html) | 东南亚 | 1.6亿 | 简单 | ⭐⭐⭐ |
 
