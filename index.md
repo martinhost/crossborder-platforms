@@ -19,6 +19,10 @@ title: 首页
 | [亚马逊](platforms/amazon.html) | 全球20大站点 | 3亿+ | 困难 | ⭐⭐⭐⭐⭐ |
 | [Shopee](platforms/shopee.html) | 东南亚 | 3.4亿 | 简单 | ⭐⭐⭐⭐ |
 | [Lazada](platforms/lazada.html) | 东南亚 | 1.6亿 | 简单 | ⭐⭐⭐ |
+| [速卖通](platforms/aliexpress.html) | 全球200+国家 | 1.5亿+ | 简单 | ⭐⭐⭐⭐ |
+| [eBay](platforms/ebay.html) | 全球190+国家 | 1.3亿 | 中等 | ⭐⭐⭐ |
+| [沃尔玛](platforms/walmart.html) | 美国、加拿大、墨西哥 | 1.2亿+ | 中等 | ⭐⭐⭐⭐ |
+| [美客多](platforms/mercado-libre.html) | 拉美18国 | 7800万+ | 简单 | ⭐⭐⭐⭐ |
 
 ---
 
